@@ -2,11 +2,13 @@
 
 Welcome to my first cybersecurity lab! This project was built as part of a Cybersecurity Fellowship to simulate a realistic, beginner-friendly environment for learning offensive and defensive security techniques.
 
-The lab uses VirtualBox to create a segmented network with the following components:
+This diagram visually represents the cybersecurity lab setup used in this project. It shows a segmented network environment built with VirtualBox, featuring three virtual machines:
 
-- **pfSense Firewall (IDS/IPS)**: Acts as the firewall and traffic controller. Snort is installed for intrusion detection.
-- **Kali Linux (Attacker Machine)**: Simulates an external attacker using tools like Metasploit, Nmap, Nikto, and Netcat.
-- **Metasploitable 2 (Vulnerable Target)**: A deliberately insecure Linux machine for testing attacks.
+- **pfSense Firewall & IDS/IPS** – Positioned between external and internal networks, responsible for traffic filtering and intrusion detection using Snort.
+- **Kali Linux (Attacker)** – Connected to both attacker and server networks to simulate an external attacker using tools like Metasploit and Nikto.
+- **Metasploitable 2 (Target)** – A vulnerable machine on the internal server network used for testing exploitation techniques.
+
+Each machine is labeled with its role, IP address, and network interface to help visualize the traffic flow and attack paths.
 
 ---
 
@@ -23,10 +25,9 @@ Each section is written in Markdown for easy reading and includes commands, expl
 
 ---
 
-## 🖼️ Screenshots & Diagrams
+## 🖼️ Diagram
 
-- **Screenshots**: Stored in the `/screenshots` folder (e.g., pfSense setup, terminal output, Snort alerts).
-- **Network Diagram**: Stored in the `/diagram` folder as a `.drawio` file, showing the lab’s network topology, VM names, IPs, and interfaces.
+![image](https://github.com/user-attachments/assets/4b29ba10-99a9-4efb-ac85-dca34cccab73)
 
 ---
 
