@@ -15,7 +15,7 @@ The lab uses VirtualBox to create a segmented network with the following compone
 This repository is organized into the following sections:
 
 - [Lab Setup & Configuration](https://github.com/cyristal-gems/verylegit_verylegal/blob/main/Lab_Setup_and_Configuration.md)
-- [Tool & System Analysis]((https://github.com/cyristal-gems/verylegit_verylegal/blob/main/Tools_and_System_Analysis.md))
+- [Tool & System Analysis](https://github.com/cyristal-gems/verylegit_verylegal/blob/main/Tools_and_System_Analysis.md)
 - [Security Relevance](https://github.com/cyristal-gems/verylegit_verylegal/blob/main/Security_Relevance.md)
 - [Reflection](https://github.com/cyristal-gems/verylegit_verylegal/blob/main/Reflection.md)
 
