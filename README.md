@@ -4,9 +4,9 @@ Welcome to my first cybersecurity lab! This project was built as part of a Cyber
 
 The lab uses VirtualBox to create a segmented network with the following components:
 
-- **pfSense Firewall/IDS/IPS**: Acts as the firewall and traffic controller. Snort is installed for intrusion detection.
-- **Kali Linux Attacker Machine**: Simulates an external attacker using tools like Metasploit, Nmap, Nikto, and Netcat.
-- **Metasploitable 2 Vulnerable Target**: A deliberately insecure Linux machine for testing attacks.
+- **pfSense Firewall (IDS/IPS)**: Acts as the firewall and traffic controller. Snort is installed for intrusion detection.
+- **Kali Linux (Attacker Machine)**: Simulates an external attacker using tools like Metasploit, Nmap, Nikto, and Netcat.
+- **Metasploitable 2 (Vulnerable Target)**: A deliberately insecure Linux machine for testing attacks.
 
 ---
 
