@@ -14,9 +14,9 @@ The lab uses VirtualBox to create a segmented network with the following compone
 
 This repository is organized into the following sections:  
 
-- [Lab Setup & Configuration](Lab-Setup-and-Configuration.md)  
-- [Tool & System Analysis](Tool-and-System-Analysis.md)  
-- [Security Relevance](Security-Relevance.md)  
+- [Lab Setup & Configuration](Lab_Setup_and_Configuration.md)  
+- [Tool & System Analysis](Tool_and_System_Analysis.md)  
+- [Security Relevance](Security_Relevance.md)  
 - [Reflection](Reflection.md)  
 
 Each section is written in Markdown for easy reading and includes commands, explanations, and insights from my beginner perspective.
