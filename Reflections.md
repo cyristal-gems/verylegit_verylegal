@@ -7,5 +7,3 @@ One of the most important parts of this project was realizing how attackers find
 Installing Snort and seeing alerts triggered by my own activities was a huge eye-opener. It showed me how network defenders identify threats and respond. It also helped me understand how attackers try to avoid detection, and why it’s important to monitor network traffic closely.
 
 This project helped me build confidence with Linux commands, network configuration, and using the terminal. It also made me realize how important documentation and organization are when setting up complex environments. I struggled with some of the configurations, but troubleshooting those issues taught me more than if everything had worked perfectly from the start.
-
-Professionally, this lab gave me a solid foundation that I can build on in future cybersecurity training. Having this project documented and stored in GitHub will help show employers that I’m committed to learning and capable of building something real. It’s my first cybersecurity project, and I’m proud of it.
