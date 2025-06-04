@@ -28,8 +28,8 @@ Here’s a table summarizing the virtual machines in my lab:
 
 - `em0` (WAN): NAT (external connection for updates)  
 - `em1` (LAN - AttackerNet): 192.168.11.1/24  
-- `em2` (LAN - ServerNet): 192.168.12.1/24  
-- `em3` (LAN - MgmtNet): 192.168.13.1/24  
+- `em2` (OP1 - ServerNet): 192.168.12.1/24  
+- `em3` (OP2 - MgmtNet): 192.168.13.1/24  
 
 ### DHCP Settings
 
@@ -38,18 +38,6 @@ Here’s a table summarizing the virtual machines in my lab:
 | AttackerNet     | 192.168.11.200-210       |
 | ServerNet       | 192.168.12.1-25          |
 | MgmtNet         | Static only (no DHCP)    |
-
----
-
-## Setup Screenshots
-
-📸 Screenshots of the VirtualBox network setup, pfSense interface settings, and DHCP configurations are stored in the `/screenshots` folder.  
-
----
-
-## Network Diagram
-
-🗺 The complete lab topology is illustrated in the `Cybersecurity_Lab_Topology.drawio` diagram (stored in the `/diagram` folder). It shows how the machines and networks connect through pfSense, with Snort installed as the IDS/IPS.  
 
 ---
 
