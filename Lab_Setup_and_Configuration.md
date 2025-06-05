@@ -29,9 +29,9 @@ Here’s a table summarizing the virtual machines in my lab:
 ### pfSense Interface Setup
 
 - `em0` (WAN): NAT (external connection for updates)  
-- `em1` (LAN - AttackerNet): 192.168.11.1/24  
-- `em2` (OP1 - ServerNet): 192.168.12.1/24  
-- `em3` (OP2 - MgmtNet): 192.168.13.1/24  
+- `em1` (OPT1 - AttackerNet): 192.168.11.1/24  
+- `em2` (OPT2 - ServerNet): 192.168.12.1/24  
+- `em3` (OPT3 - MgmtNet): 192.168.13.1/24  
 
 ### DHCP Settings
 
