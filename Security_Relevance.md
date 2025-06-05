@@ -1,4 +1,6 @@
-# Security Relevance
+<p align="center">
+  <img src="https://images.cooltext.com/5732542.gif" alt="Security Relevance">
+</p>
 
 ### Why IDS and IPS Tools Matter in Cyber Defense
 
