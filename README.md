@@ -12,7 +12,7 @@ Each machine is labeled with its role, IP address, and network interface to help
 
 ---
 
-## 📂 Lab Sections
+## Lab Sections
 
 This repository is organized into the following sections:
 
@@ -25,13 +25,13 @@ Each section is written in Markdown for easy reading and includes commands, expl
 
 ---
 
-## 🖼️ Diagram
+## Diagram
 
 ![image](https://github.com/user-attachments/assets/4b29ba10-99a9-4efb-ac85-dca34cccab73)
 
 ---
 
-## 🎯 Learning Goals
+## Learning Goals
 
 - Understand the basics of **network segmentation**, **firewalls**, and **IDS/IPS**.
 - Explore common attacker tools (Metasploit, Nmap, Nikto, Netcat) and practice basic **penetration testing**.
