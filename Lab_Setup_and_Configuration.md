@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.cooltext.com/5732530.gif" alt="Lab Setup & Configuration">
+  <img src="https://images.cooltext.com/5732541.png" alt="Lab Setup & Configuration">
 </p>
 
 This section describes how I built my virtual cybersecurity lab, including the setup of VirtualBox, pfSense, Kali Linux, and Metasploitable 2. This lab simulates a realistic network where an attacker tries to breach a vulnerable system, and a firewall and IDS/IPS protect the internal network.  
