@@ -1,4 +1,4 @@
-![Very Legit Title](https://images.cooltext.com/5732528.gif)
+![Very Legit Title](https://images.cooltext.com/5732540.png)
 
 Welcome to my first cybersecurity lab! This project was built as part of a Cybersecurity Fellowship to simulate a realistic, beginner-friendly environment for learning offensive and defensive security techniques.
 
