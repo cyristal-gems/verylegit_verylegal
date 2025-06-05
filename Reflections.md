@@ -1,4 +1,6 @@
-# Reflection
+<p align="center">
+  <img src="https://images.cooltext.com/5732534.png" alt="Reflections">
+</p>
 
 Building this cybersecurity lab was my first real hands-on experience with offensive and defensive security tools. I learned how to safely simulate a network environment using VirtualBox and how to segment networks with pfSense. This gave me a better understanding of how real organizations structure their networks to isolate critical systems from external threats.
 
